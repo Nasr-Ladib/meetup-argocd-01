@@ -14,4 +14,5 @@
         - backend:
             service:
               name: sample-service
-              port: 80
+              port: 
+                number: 80
